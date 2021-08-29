@@ -1,11 +1,11 @@
 {
-    "token": "", 
-    "mongourl": "",
-    "ksoftapi": "",
-    "prefix": "!",
-    "ownerID": "491577179495333903",
-    "clientID": "",
-    "clientSecret": "",
+    "token": "ODYyNDQ4NzY3NzAxNzQ1Njc1.YOYgAQ.O5bpuzohuRUuKMUcdwy1avPtv2Y", 
+    "mongourl": "mongodb+srv://vicky00:vicky00@cluster0.jdyyc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ksoftapi": "AIzaSyAmQGrNingpVS_IKP8SH4QXKQA8SzKohS4",
+    "prefix": "c~",
+    "ownerID": "510911888855531520",
+    "clientID": "862448767701745675",
+    "clientSecret": "2P2LXIDDWiz79W1mfjDDBRZ8EqNV5-WV",
     "embedColor": "#303236",
      "nodes": [
     
