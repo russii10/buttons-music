@@ -7,7 +7,7 @@
     "clientID": "862448767701745675",
     "clientSecret": "2P2LXIDDWiz79W1mfjDDBRZ8EqNV5-WV",
     "embedColor": "#303236",
-     "nodes": "index.js"
+     "nodes": [
     
     {
       "host": "lavalink-repl.brblacky.repl.co",
