@@ -1,5 +1,5 @@
 {
-  "name": "lavamusic",
+  "name": "Chata staff",
   "version": "1.0.1",
   "description": "lavalink music bot base in erelajs",
   "main": "index.js",
@@ -15,7 +15,7 @@
      
   },
   "keywords": [
-    "lavalink",
+    "Chatalink",
     "erela",
     "music",
     "bot",
