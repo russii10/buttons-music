@@ -77,7 +77,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 
 ## ⚙️ Configuration
 
-     "TOKEN": "", //Discord bot token 
+     "TOKEN": "OTQzMTAxODUwMTY3NjkzMzg0.YguKCw.gDJr8jTtJ59fsSdPap-78nFcHS4", //Discord bot token 
      "MONGOURL": "",  //MongoDb url
      "KSOFT_API_KEY": "",  //ksoft api
      "PREFIX": "!",  //Default prefix
@@ -88,9 +88,9 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
     
 ## 🌋 lavalink 
 
-      "host": "lavalink-repl.brblacky.repl.co",
+      "host": "RUSSIlink-repl.brblacky.repl.co",
       "port": 443,
-      "password": "LAVA",
+      "password": "RUSSI",
       "retryDelay": 3000,
       "secure": true
 
