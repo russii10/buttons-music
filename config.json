@@ -1,18 +1,18 @@
 {
-    "token": "", 
+    "token": "OTQzMTAxODUwMTY3NjkzMzg0.YguKCw.gDJr8jTtJ59fsSdPap-78nFcHS4", 
     "mongourl": "3faa0637-24e3-4ebe-8e91-599897fd6b9a",
     "ksoftapi": "",
     "prefix": "c~",
-    "ownerID": "510911888855531520",
+    "ownerID": "913834308341489694",
     "clientID": "862448767701745675",
     "clientSecret": "2P2LXIDDWiz79W1mfjDDBRZ8EqNV5-WV",
     "embedColor": "#303236",
      "nodes": [
     
     {
-      "host": "lavalink-repl.brblacky.repl.co",
+      "host": "RUSSIlink-repl.brblacky.repl.co",
       "port": 443,
-      "password": "LAVA",
+      "password": "RUSSI",
       "retryDelay": 3000,
       "secure": true
     
